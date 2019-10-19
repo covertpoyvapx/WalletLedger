@@ -12,7 +12,7 @@ Features
 
 If you have any questions or suggestions about Wallet Ledger, do not hesitate to contact us.
 
-Email: fixrays@gmail.com
+Email: Fixrays@gmail.com
 
 ## Privacy Policy
 
